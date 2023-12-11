@@ -8,8 +8,10 @@
             "url": "https://github.com/Nosferaschu/dh2e_resources"
         }
     ],
-    "version": "0.7.0",
-    "manifest": "https://raw.githubusercontent.com/BinMan86/dh2e_resources/main/module.json",
+    "version": "blank",
+    "url":"blank"
+    "manifest": "blank",
+    "download": "blank",
     "compatibility": {
         "minimum": "9",
         "verified": "10"
