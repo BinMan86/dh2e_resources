@@ -1,5 +1,5 @@
 {   
-	"name": "dh2e_resources",   
+	"id": "dh2e_resources",   
 	"title": "Dark Heresy 2nd Edition Resource Pack",   
 	"description": "750+ Items from 4 rulebooks and self created",   
 	"authors": [
@@ -9,12 +9,10 @@
 	 	}
 	],
 	"version": "0.7.0",
-	"url": "https://github.com/Nosferaschu/dh2e_resources",
     	"manifest": "https://raw.githubusercontent.com/BinMan86/dh2e_resources/main/module.json",
     	"download": "https://github.com/BinMan86/dh2e_resources/raw/module.zip",
 	"systems": ["dark-heresy"],
-	"minimumCoreVersion": "9.238",
-	"compatibleCoreVersion":"9.238",
+
 	"compatibility": {
 		"minimum": "0.8.6",
 		"verified": "10"
