@@ -9,9 +9,7 @@
         }
     ],
     "version": "0.7.0",
-    "url": "https://github.com/BinMan86/dh2e_resources/",
     "manifest": "https://raw.githubusercontent.com/BinMan86/dh2e_resources/main/module.json",
-    "download": "https://github.com/BinMan86/dh2e_resources/raw/module.zip",
     "compatibility": {
         "minimum": "9",
         "verified": "10"
